@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SchafKit",
+        "repositoryURL": "https://github.com/Quintschaf/SchafKit.git",
+        "state": {
+          "branch": "master",
+          "revision": "b970d08e8ac1b4e175e5f07fa4d0f6cffa7356a5",
+          "version": null
+        }
+      },
+      {
+        "package": "UStudyCore",
+        "repositoryURL": "https://github.com/JannThomas/UStudyCore-iOS.git",
+        "state": {
+          "branch": "main",
+          "revision": "a12de54d17ba023490ba907e3584a06391be62d1",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
